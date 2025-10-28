@@ -1,0 +1,5 @@
+/home/abhijithramp/Desktop/TestNETProject/Project_V1/Project_V1/obj/Debug/net8.0/Project_V1.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhijithramp/Desktop/TestNETProject/Project_V1/Project_V1/obj/Debug/net8.0/Project_V1.AssemblyInfoInputs.cache
+/home/abhijithramp/Desktop/TestNETProject/Project_V1/Project_V1/obj/Debug/net8.0/Project_V1.AssemblyInfo.cs
+/home/abhijithramp/Desktop/TestNETProject/Project_V1/Project_V1/obj/Debug/net8.0/Project_V1.csproj.CoreCompileInputs.cache
+/home/abhijithramp/Desktop/TestNETProject/Project_V1/Project_V1/obj/Debug/net8.0/Project_V1.MvcApplicationPartsAssemblyInfo.cache
